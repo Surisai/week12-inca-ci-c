@@ -24,5 +24,5 @@ jobs:
         env: 
           SECRET_COOKIE_PASSWORD: 2gyZ3GDw3LHZQKDhPmPDL3sjREVRXPr8
         with:
-        build: npm run build
-        start: npm start
+          build: npm run build
+          start: npm start
